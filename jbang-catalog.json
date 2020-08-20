@@ -1,0 +1,8 @@
+{
+    "aliases": {
+      "lastweek": {
+        "script-ref":   "lastweek.java",
+        "description":  "Script listing the commits that were published in my favourite repos for the past 7 days"
+      }
+    }
+}
